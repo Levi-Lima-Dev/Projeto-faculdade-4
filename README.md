@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #PS2025
 
 Procedimento/Atividade nº 1: Criação de Repositório de Artefatos de Projeto em Nuvem
@@ -29,3 +30,6 @@ Observações
 Esta atividade demonstra a importância da organização e do controle de artefatos em projetos de software, alinhando-se com as melhores práticas de governança e gestão de serviços de TI (ITIL e COBIT).
 A utilização de um repositório em nuvem facilita o acesso e a colaboração entre os membros do projeto, além de garantir a segurança e a integridade dos artefatos.
 A participação das áreas de Estratégia, Governança e ESG demonstra a preocupação da organização com a sustentabilidade e a responsabilidade social em seus projetos. 
+=======
+# PS2025 
+>>>>>>> 7d722237b04c9781efe2d7ed37a3cb3e0dcd155c
